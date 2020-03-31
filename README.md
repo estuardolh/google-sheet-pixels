@@ -1,2 +1,3 @@
-# pixels-on-google-sheet
-Paste perfectly your pixel art on Google Sheets.
+# google-sheet-pixels
+Paste your pixel art on Google Sheets.
+
