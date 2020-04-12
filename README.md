@@ -1,4 +1,4 @@
-# google-sheet-pixels
-Paste your pixel art on Google Sheets.
+# selenium-practice
+Resize columns and rows in G Sheets.
 
-It's baking on [develop branch](https://github.com/estuardolh/google-sheet-pixels/tree/develop) 🎂
+It's baking on [develop branch](https://github.com/estuardolh/selenium-practice/tree/develop) 🎂
